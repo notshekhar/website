@@ -171,7 +171,9 @@ contributions:
     url: "https://amnindersingh12.github.io/Colourfull-tic-tac-toe/"
     source: "https://github.com/amnindersingh12/Colourfull-tic-tac-toe/tree/main"
   - title: "Tic-Tac-Toe with Minimax Algorithm"
-    author: "Shekhar Tyagi"
+    author:
+      name: "Shekhar Tyagi"
+      url: "https://github.com/notshekhar/"
     url: "https://notshekhar.github.io/tic_tac_toe_game_using_JS"
     source: "https://github.com/notshekhar/tic_tac_toe_game_using_JS"
 ---
